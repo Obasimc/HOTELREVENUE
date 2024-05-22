@@ -41,3 +41,5 @@ The data dictionary was provided by Dahel Techies. It indicates that various tra
 ## Data Analysis and Visualization
 
 We wanted to create a dashboard with the ability to float, allowing us to align my KPIs effectively. We ended up creating 12 views and a dashboard. Here is the dashboard.
+
+![](HOTELREVENUEDISHBOARD.jpeg)
