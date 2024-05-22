@@ -7,4 +7,4 @@ I am committed to elevating my career as a data analyst by mastering predictive,
 
 The purpose of this report is to provide valuable insights and data-driven recommendations for City and Resort Hotel, as contained in the Hotel Revenue dataset. This report has been meticulously prepared to address key business questions and challenges faced by the hotels and leverage data analysis to support informed decision-making and enhance overall business performance.
 
-![]()
+![](hotelpix.jpeg)
