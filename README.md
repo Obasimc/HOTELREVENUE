@@ -28,5 +28,7 @@ Other skills demonstrated included
 
 ## Data Source
 
+The dataset was provided by Dahel Techies Consultants in form of a “csv file” and it consists  of 141586 rows and 35 columns
+
 
 
