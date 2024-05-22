@@ -11,19 +11,22 @@ The purpose of this report is to provide valuable insights and data-driven recom
 
 ## Problem Statement
 
-In order to identify and understand the factor influencing the Hotel Revenue performance, the analysis objective is
+To identify and understand the factors influencing Hotel Revenue performance, the analysis objective is
 - To gain insights and spot patterns and trends present in the data
-- To evaluate historical revenue trends, Key performance Indicators (KPIs).
-- To provide insights for  data-driven decisions making  for the profitability of the hotel operations
-- Lastly , to design a dashboard that would communicate information and subsequent year projections
+- To evaluate historical revenue trends and key Performance Indicators (KPIs).
+- To provide insights for  data-driven decision-making  for the profitability of the hotel operations
+- Lastly, to design a dashboard that would communicate information and subsequent year projections
 
 ## Skills and concepts demonstrated:
 
 **Advanced Excel** is the skill applied. 
-Other skill demonstrated included
+Other skills demonstrated included
 - Creating calculated fields
-- Forecasting on excel charts
+- Forecasting on Excel charts
 - Data analysis
-- Visualization using advanced excel techniques 
+- Visualization using advanced Excel techniques
+
+## Data Source
+
 
 
