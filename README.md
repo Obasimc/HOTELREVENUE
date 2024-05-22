@@ -34,7 +34,7 @@ The dataset was provided by Dahel Techies Consultants in form of a â€œcsv fileâ€
 
 The data dictionary was provided by Dahel Techies. It indicates that various transformations or forecasting need to be performed. To understand the data and remove ambiguity, we cleaned the datasets with a Power Query editor. After the cleaning, the unified table was loaded into Excel for visualization and insight generation. Pivot tables were inserted, and slicers and filters were applied. Multiple queries were used to analyze the data. You will find the tables below:
 
-**Pivot table**                                                          | **Chart**
+**Pivot tables**                                                          | **Charts**
 :-----------------------------------------------------------------------:|:---------------------------------------------------------------:
 ![](TOTALGUESTVSMONTH.jpeg)                                                                    | ![](TOTALGUESTVSMONTH2.jpeg)
-
+![]()                                                                                          | ![]()
