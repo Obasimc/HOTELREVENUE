@@ -62,3 +62,5 @@ Throughout the three years under examination, the City hotel had the most guests
 
 Over the years 2018, 2019, and 2020, visitors continuously preferred Bed and Breakfast choices. A review of market segmentation shows that the City Hotel benefits from online TA, Groups, and Offline TA/TO, while the Resort Hotel gains from online TA, direct reservation, and offline TA/TO. The customer types that generated the highest revenue were Transient and Transient Party, indicating that Group and contract categories require more assessment. However, the revenue trends show an upswing and downswing, which necessitates consistent marketing campaigns and pricing modifications to attract and retain customers. To further increase guests’ satisfaction, culinary excellence and staff training should be the focus.
 
+**Thank you for your time. I am actively seeking an entry-level Data Analyst role and am eager to engage in a discussion about your company and industry.**
+
