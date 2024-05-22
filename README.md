@@ -36,5 +36,5 @@ The data dictionary was provided by Dahel Techies. It indicates that various tra
 
 **Pivot table**                                                          | **Chart**
 :-----------------------------------------------------------------------:|:---------------------------------------------------------------:
-![]()                                                                    | ![]()
+![](TOTALGUESTVSMONTH.jpeg)                                                                    | ![](TOTALGUESTVSMONTH2.jpeg)
 
